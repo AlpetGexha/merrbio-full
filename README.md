@@ -1,5 +1,9 @@
 # Merr Bio
 
+Front: https://github.com/siboraberishaa/merrbio-frontend
+
+Back: https://github.com/AlpetGexha/MerrBio
+
 # Fermeri 
 ![](Screenshot/Dashboard.png)
 ![](Screenshot/Product-List.png)
@@ -17,3 +21,13 @@
 ![](Screenshot/Admin%20ROle.png)
 ![](Screenshot/ADmin-Category.png)
 ![](Screenshot/Admin-User.png)
+![](Screenshot/Admin-Order.png)
+
+
+# Fronti 
+![](Screenshot/Front-main.png)
+![](Screenshot/Front-Produkti.png)
+![](Screenshot/Front-cart.png)
+![](Screenshot/Front-Search.pnh.png)
+![](Screenshot/Login.png)
+![](Screenshot/Register.png)
